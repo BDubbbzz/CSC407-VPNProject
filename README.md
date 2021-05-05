@@ -11,16 +11,16 @@
  For this project, I decided to discuss about OpenVPN and its many features.
  
  ## What is OpenVPN?
- OpenVPN is an open-source protocol that allows developers access to copy or modify its infrastructure and can use either TCP or UDP to transmit data. This means that OpenVPN is a VPN service, but instead is a port utilized by other services. It uses the TLS/SSL protocol and can travel through firewalls and network address translators. OpenVPN uses OpenSSL, which is an open-source software library used by a variety of applications that help keep connections secure and prevents others from eavesdropping in and monitoring the data. One of the best benefits of OpenVPN is that it is free to use. One of the more notable VPN services to utilize the OpenVPN protocol is Windscribe VPN.
+ OpenVPN is an open-source protocol that allows developers access to copy or modify its infrastructure and can use either TCP or UDP to transmit data. This means that OpenVPN is a VPN service on it own, it can be used as a port utilized by other services. It uses the TLS/SSL protocol and can travel through firewalls and network address translators. OpenVPN uses OpenSSL, which is an open-source software library used by a variety of applications that help keep connections secure and prevents others from eavesdropping in and monitoring the data. One of the best benefits of OpenVPN is that it is free to use. One of the more notable VPN services to utilize the OpenVPN protocol is AirVPN.
  
- ## What is Windscribe VPN?
- Windscribe VPN is a virtual private network service provider created in 2012. It works on Windows, macOS, and Linux, as well as iOS and Android. Windscribe owns and maintains over 1,000 servers, 63 server locations, and hundreds of IP addresses spread across the world. It is considered to be one of the best VPN providers by many. Windscribe has three protocols for its connection, namely OpenVPN UDP, and OpenVPN TCP. It also helps strengthen encryptions and keep personal and online data private. Overall, using the services provided by OpenVPN and the latest VPN tech, Windscribe VPN provides great protection and provides a great way to keep your devices connected, yet secure.
+ ## What is AirVPN?
+ AirVPN is a virtual private network service provider based in Europe. It works on Windows, macOS, and Linux, as well as iOS and Android. AirVPN owns and maintains over 100 servers, hundreds server locations, and hundreds of IP addresses spread across the world. It is considered to be one of the better VPN providers by many. It uses the OpenVPN protocols for its connection, namely OpenVPN UDP, and OpenVPN TCP. It also helps strengthen encryptions and keep personal and online data private. Overall, using the services provided by OpenVPN and the latest VPN tech, AirVPN provides great protection and provides an excellent way to keep your devices connected, yet secure.
  
  
 ## Three Main Ideas
 1. When using unsecured or unprotected Wi-Fi, it can be easy for companies or even suspicious individuals to monitor and take your personal data, as well as spy on your browsing habits and turn them against you without your knowledge.
 2. With the rise of cybercrime and device/internet monitoring by various sources, VPNs are slowly becoming the new standard for safe and secure browsing.
-3. There are many ways to implement a VPN onto a network whether it be home or business. While not an actual service, OpenVPN seems to be the backbone for many VPN services, like Windscribe, and provides much of the protection and privacy while using a VPN service.
+3. There are many ways to implement a VPN onto a network whether it be home or business. While not an actual service, OpenVPN seems to be the backbone for many VPN services, like AirVPN, and provides much of the protection and privacy while using a VPN service.
 
 
 ## Future Direction
@@ -37,7 +37,7 @@ These are some further topics of interest and provide some excellent information
 
 ## Additional Resources
 * [What is a VPN?](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html)
-* [Windscribe VPN](https://windscribe.com/features)
+* [AirVPN](https://airvpn.org/)
 * [OpenVPN](https://www.allthingssecured.com/vpn/faq/what-is-openvpn/)
 * [Wireshark](https://www.wireshark.org/index.html#aboutWS)
 * [Anti-Privacy Bill](https://www.reuters.com/article/us-usa-internet-trump/trump-signs-repeal-of-u-s-broadband-privacy-rules-idUSKBN1752PR)
