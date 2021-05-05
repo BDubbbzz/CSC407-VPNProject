@@ -40,3 +40,4 @@ These are some further topics of interest and provide some excellent information
 * [Windscribe VPN](https://windscribe.com/features)
 * [OpenVPN](https://www.allthingssecured.com/vpn/faq/what-is-openvpn/)
 * [Wireshark](https://www.wireshark.org/index.html#aboutWS)
+* [Anti-Privacy Bill](https://www.reuters.com/article/us-usa-internet-trump/trump-signs-repeal-of-u-s-broadband-privacy-rules-idUSKBN1752PR)
