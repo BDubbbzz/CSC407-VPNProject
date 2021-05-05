@@ -13,11 +13,12 @@
  ## What is OpenVPN?
  OpenVPN is an open source protocol that allows developers access to copy or modify its infrastructure and can use eitehr TCP or UDP to transmit data. This means that OpenVPN is a VPN service, but instead is a port utilized by other services. It uses the TLS/SSL protocol and can travel through firewalls and network address translators. OpenVPN uses OpenSSL, which is an open-source software library used by a veriety applications that help keep connections secure and prevents others from eavesdropping in and monitering the data. One of the best benefits of OpenVPN is that it is free to use. One of the more notable VPN services to utilize the OpenVPN protocol is NordVPN.
  
- ## Waht is Windscribe VPN?
+ ## What is Windscribe VPN?
  Windscribe VPN is a virtual private network service provider created in 2012. It works on Windows, macOS, and Linux, as well as iOS and Android. Windscribe owns and maintains over 1,000 servers, 63 server locations, and hundreds of IP addresses spread across the world. It is considered to be one of the best VPN providors by many. Windscribe has three protocols for its connection, namely OpenVPN UDP, and OpenVPN TCP. It also helps strengthen encryptions and keep personal and online data private. Overall, using the serivces provided by OpenVPN and the latest VPN tech, Windscribe VPN provides great protection and provides a great way to keep your devices connected, yet secure.
  
  
 ## Three Main Ideas
+1. 
 
 
 ## Additional Resources
