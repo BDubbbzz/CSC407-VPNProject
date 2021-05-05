@@ -36,7 +36,7 @@ These are some further topics of interest and provide some excellent information
 
 
 ## Additional Resources
-* [YOuTube Video Presentation](https://youtu.be/iZKCs5Qq0yI)
+* [YouTube Video Presentation](https://youtu.be/iZKCs5Qq0yI)
 * [What is a VPN?](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html)
 * [AirVPN](https://airvpn.org/)
 * [OpenVPN](https://www.allthingssecured.com/vpn/faq/what-is-openvpn/)
