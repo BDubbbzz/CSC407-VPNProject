@@ -27,6 +27,14 @@
 Since this project was based on the uses and functions of VPNS as a whole, with some network monitering, there a many more "rabbit holes" one could go down. There many different services out there than what was discussed in this project. The future of commercial VPNs and VPN technology seems very bright. And with Donald Trump passing an anti-privacy bill back in 2017, one could study to see if the uses of VPN are expanding with the general public's knowledge of VPNs and VPN services since then.
 
 
+## Additional Topics
+These are some further topics of interest and provide some excellent information:
+* Ethernet VPN
+* Split Tunneling
+* Virtual Private Server (VPS)
+* Trump Broadband Privacy Repeal Bill
+
+
 ## Additional Resources
 * [What is a VPN?](https://us.norton.com/internetsecurity-privacy-what-is-a-vpn.html)
 * [Windscribe VPN](https://windscribe.com/features)
